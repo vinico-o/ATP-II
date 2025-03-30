@@ -1,0 +1,2 @@
+Um texto em um arquivo
+outro texto em um arquivo

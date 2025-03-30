@@ -1,0 +1,24 @@
+RA: 1
+Nome: vinicius
+Nota: 10.00
+
+RA: 2
+Nome: mardegan
+Nota: 9.00
+
+RA: 3
+Nome: guilherme
+Nota: 8.00
+
+RA: 4
+Nome: gustavo
+Nota: 7.00
+
+RA: 5
+Nome: igor
+Nota: 6.00
+
+RA: 6
+Nome: cauan
+Nota: 5.00
+
