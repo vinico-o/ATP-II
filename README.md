@@ -1,4 +1,4 @@
-# Algorítmos e Técnicas de Programação II
+# Algoritmos e Técnicas de Programação II
 
 **Algorítmos e Técnicas de Programação II** busca maior aprofundamento utilizando linguagem C.
 
